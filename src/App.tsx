@@ -1,6 +1,6 @@
 import React, { useState, type ChangeEvent } from "react";
 
-const App: React.FC = () => {
+function App() {
   // Exchange rate (fixed rate for simplicity)
   const EXCHANGE_RATE = 1050000;
 
@@ -90,6 +90,6 @@ const App: React.FC = () => {
       </div>
     </div>
   );
-};
+}
 
 export default App;
