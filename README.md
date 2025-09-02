@@ -17,5 +17,5 @@ For the purpose of this demo application, the exchange rate is a fixed constant 
 
 In a production environment, this value would be fetched from a real-time currency exchange API to provide accurate and up-to-date conversion rates. The use of a fixed value here demonstrates a fundamental understanding of how data flows in a React application without introducing the complexity of network requests and API handling.
 
-# References
+## References
 We made use of packages and libraries documentations such as Tailwindcss, React and TypeScript for implementing this project.
